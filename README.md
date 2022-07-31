@@ -2,7 +2,7 @@
 
 To run
 
-<br> Step 1: git clone https://github.com/ANAGHA-20/pipeline_paddle_viton
+<br> Step 1: git clone https://github.com/ANAGHA-20/pipeline-paddle
 <br> Step 2: %cd ./pipeline_paddle_viton
 <br> Step 3: pip install -r requirements.txt
 <br>         pip install paddlepaddle-gpu
